@@ -13,25 +13,16 @@ npm run dev
 yarn dev
 ```
 
-## Tech Stack 🚀
-
-- Next.js
-- React icons
-- Next font
-- useSWR
-- TailwindCSS
-- Tailwind Animation delay plugin
-- Spotify API
 
 ## Environment variables
 
-NEXT_SPOTIFY_CLIENT_ID: The Client ID you got from Spotify Developer Dashboard
-NEXT_SPOTIFY_CLIENT_SECRET: The Client Secret you got from Spotify Developer Dashboard
-NEXT_SPOTIFY_REFRESH_TOKEN: The Refresh Token you got from Spotify API
+NEXT_SPOTIFY_CLIENT_ID = The Client ID you got from Spotify Developer Dashboard
+NEXT_SPOTIFY_CLIENT_SECRET = The Client Secret you got from Spotify Developer Dashboard
+NEXT_SPOTIFY_REFRESH_TOKEN =  The Refresh Token you got from Spotify API
 
 ## Live version
 
-[Deployed version](https://spotify-playing-api-gold.vercel.app/)
+[Deployed version]()
 
 ## Deploy on Vercel
 
