@@ -22,7 +22,7 @@ NEXT_SPOTIFY_REFRESH_TOKEN =  The Refresh Token you got from Spotify API
 
 ## Live version
 
-[Deployed version]()
+[Deployed version](https://spotify-playing-test.vercel.app)
 
 ## Deploy on Vercel
 
